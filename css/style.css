@@ -1,3 +1,8 @@
+body{
+    background-color: #F6F8F9 ;
+
+
+}
 
 .contenitore{
     width: 1000px;
@@ -20,3 +25,124 @@ vertical-align: middle;
 .logo_text{
 font-size: 4rem;
 }
+
+
+
+
+.site_main{
+   width: 680px;
+   margin: auto;
+  
+   
+
+
+
+}
+
+
+
+.main{
+  padding: 2rem;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+ 
+  
+
+
+
+
+}
+
+.main_text{
+    background-color: aqua;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 7px;
+    color: white;
+  
+}
+
+
+.main_text1{
+    color: gray;
+    background-color:white;
+    padding: 5px;
+    border-radius: 5px ;
+    border: 2px solid;
+    
+}
+
+
+.task{
+    height: 800px;
+    padding: 38px;
+
+
+
+}
+
+
+
+
+.editorial{
+   background-color: skyblue ;
+   padding: 6px;
+    border-radius: 0.5em;
+    color: white;
+    
+   
+
+}
+
+
+.goals{
+    background-color: #9C72E4;
+    padding: 6px;
+    border-radius: 0.5em;
+    color: white;
+    
+    
+
+    
+
+}
+
+.bg_primary{
+    padding: 3em;
+    font-size: 1.5em;
+}
+
+
+td{
+    padding: 10px
+}
+
+.Recruiting{
+    background-color: #64C0A9;
+    padding: 6px;
+    border-radius: 0.5em;
+    color: white;
+    
+    
+}
+
+
+.mobile{
+    background-color: #F29E33;
+    padding: 6px;
+    border-radius: 0.5em;
+    color: white;
+
+        
+
+   
+}
+
+
+
+
+
+  
+
+
+
