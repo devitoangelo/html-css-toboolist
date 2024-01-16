@@ -45,7 +45,7 @@ font-size: 4rem;
   padding: 2rem;
   background-color: #FFFFFF;
   border-radius: 10px;
- 
+  margin-bottom: 2px;
   
 
 
@@ -133,11 +133,32 @@ td{
     border-radius: 0.5em;
     color: white;
 
-        
-
    
 }
+.website{
+    padding: 6px;
+    border-radius: 0.5em;
+    color: white;
+    background-color: #D863A1
 
+
+
+
+}
+.sales{
+    padding: 6px;
+    border-radius: 0.5em;
+    color: white;
+    background-color: #B0C926;
+
+}
+
+
+
+.task{
+    background-color: white;
+    height: 520px;
+}
 
 
 
