@@ -1,15 +1,22 @@
+
+
+/* region common */
 body{
     background-color: #F6F8F9 ;
 
 
 }
 
+
 .contenitore{
     width: 1000px;
+
   
 }
 header{
-    background-color: whitesmoke
+    background-color: #FFFFFF;
+    margin-bottom: 3rem;
+    
 }
 
 
@@ -27,8 +34,7 @@ font-size: 4rem;
 }
 
 
-
-
+/* endregion common */
 .site_main{
    width: 680px;
    margin: auto;
@@ -164,6 +170,25 @@ td{
 footer{
 text-align: center
 }
+
+
+#chek{
+    border: 1px solid #f00;
+    border-radius: 50%;
+    padding: 5px;
+    color: red;
+}
+
+#x{
+    border: 1px solid #f00;
+    border-radius: 50%;
+    padding: 5px;
+    color: red;
+
+}
+
+
+
 
 
 
